@@ -1,0 +1,7 @@
+link for note book
+
+https://colab.research.google.com/drive/1djXBcz0EFr-dAQx-7ZAgobCFkP3j9RwC?usp=sharing
+
+link for dashboard
+
+https://ml-qkd-security-dashboard.streamlit.app/
